@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AqoyU9AYGvoJXSpVGAbvUXKTXnXWUKu1xc/OQiQoZQk=",
+  "Source": "Articles.Comments.Api",
+  "BasePath": "_content/Articles.Comments.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

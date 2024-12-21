@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\d\\projects\\dotnet\\Article.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|c:\\d\\projects\\dotnet\\article.api\\src\\article.api\\servicesclients\\icommentsserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|solutionrelative:src\\article.api\\servicesclients\\icommentsserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|c:\\d\\projects\\dotnet\\article.api\\src\\article.api\\models\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|solutionrelative:src\\article.api\\models\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|c:\\d\\projects\\dotnet\\article.api\\src\\article.api\\dataadapters\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|solutionrelative:src\\article.api\\dataadapters\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|c:\\d\\projects\\dotnet\\article.api\\src\\article.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|solutionrelative:src\\article.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1550F5AB-AA08-43BE-869F-17F0C055EB1A}|src\\Articles.Comments.Api\\Articles.Comments.Api.csproj|c:\\d\\projects\\dotnet\\article.api\\src\\articles.comments.api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1550F5AB-AA08-43BE-869F-17F0C055EB1A}|src\\Articles.Comments.Api\\Articles.Comments.Api.csproj|solutionrelative:src\\articles.comments.api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|c:\\d\\projects\\dotnet\\article.api\\src\\article.api\\servicesclients\\commentsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|solutionrelative:src\\article.api\\servicesclients\\commentsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1550F5AB-AA08-43BE-869F-17F0C055EB1A}|src\\Articles.Comments.Api\\Articles.Comments.Api.csproj|c:\\d\\projects\\dotnet\\article.api\\src\\articles.comments.api\\dtos\\commentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1550F5AB-AA08-43BE-869F-17F0C055EB1A}|src\\Articles.Comments.Api\\Articles.Comments.Api.csproj|solutionrelative:src\\articles.comments.api\\dtos\\commentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|c:\\d\\projects\\dotnet\\article.api\\src\\article.api\\article.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|solutionrelative:src\\article.api\\article.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|c:\\d\\projects\\dotnet\\article.api\\src\\article.api\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A56E7C-C92E-4B83-9520-C823C0B347C6}|src\\Article.Api\\Article.Api.csproj|solutionrelative:src\\article.api\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Articles.Comments.Api\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "src\\Articles.Comments.Api\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Articles.Comments.Api\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "src\\Articles.Comments.Api\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:38:40.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentsEntity.cs",
+              "DocumentMoniker": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\ServicesClients\\CommentsEntity.cs",
+              "RelativeDocumentMoniker": "src\\Article.Api\\ServicesClients\\CommentsEntity.cs",
+              "ToolTip": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\ServicesClients\\CommentsEntity.cs",
+              "RelativeToolTip": "src\\Article.Api\\ServicesClients\\CommentsEntity.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:37:26.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentsDto.cs",
+              "DocumentMoniker": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Articles.Comments.Api\\Dtos\\CommentsDto.cs",
+              "RelativeDocumentMoniker": "src\\Articles.Comments.Api\\Dtos\\CommentsDto.cs",
+              "ToolTip": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Articles.Comments.Api\\Dtos\\CommentsDto.cs",
+              "RelativeToolTip": "src\\Articles.Comments.Api\\Dtos\\CommentsDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:36:34.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICommentsServiceClient.cs",
+              "DocumentMoniker": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\ServicesClients\\ICommentsServiceClient.cs",
+              "RelativeDocumentMoniker": "src\\Article.Api\\ServicesClients\\ICommentsServiceClient.cs",
+              "ToolTip": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\ServicesClients\\ICommentsServiceClient.cs",
+              "RelativeToolTip": "src\\Article.Api\\ServicesClients\\ICommentsServiceClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:12:07.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\DataAdapters\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "src\\Article.Api\\DataAdapters\\ArticleRepository.cs",
+              "ToolTip": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\DataAdapters\\ArticleRepository.cs",
+              "RelativeToolTip": "src\\Article.Api\\DataAdapters\\ArticleRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:24:27.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Article.Api\\Program.cs",
+              "ToolTip": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\Program.cs",
+              "RelativeToolTip": "src\\Article.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:20:35.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleDto.cs",
+              "DocumentMoniker": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\Models\\ArticleDto.cs",
+              "RelativeDocumentMoniker": "src\\Article.Api\\Models\\ArticleDto.cs",
+              "ToolTip": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\Models\\ArticleDto.cs",
+              "RelativeToolTip": "src\\Article.Api\\Models\\ArticleDto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:26:02.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Article.Api",
+              "DocumentMoniker": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\Article.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Article.Api\\Article.Api.csproj",
+              "ToolTip": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\Article.Api.csproj",
+              "RelativeToolTip": "src\\Article.Api\\Article.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T17:10:38.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "src\\Article.Api\\ArticlesController.cs",
+              "ToolTip": "C:\\d\\projects\\dotnet\\Article.Api\\src\\Article.Api\\ArticlesController.cs",
+              "RelativeToolTip": "src\\Article.Api\\ArticlesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:24:15.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

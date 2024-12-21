@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\Article.Api\\Article.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\Articles.Comments.Api\\Articles.Comments.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
